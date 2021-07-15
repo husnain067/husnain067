@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @husnain067
 - 👀 I’m interested in mobile devlopment
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me (husnainasghar066@gmail.com)
 
