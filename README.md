@@ -10,8 +10,9 @@ Sure, here is just the "Portfolio" section:
 - [Teaching Circle](https://teachingcircle.one/)
 - [Pet Set Go](https://petsetgo.com/)
 - [Finqalab](https://www.finqalab.com/)
-- https://mazito.io/
-- https://play.google.com/store/apps/detailsid=com.fantech.theboathouse
+- [Mazito](https://mazito.io/)
+- [theboathouse](https://play.google.com/store/apps/detailsid=com.fantech.theboathouse)
+
 
 ---
 ## 🌐 Socials:
