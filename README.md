@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi!
-My name is Husnain Asghar, and I am an experienced Flutter developer who has worked on different mobile products and mobile apps having great experience working with design UI/UX, Firebase, Google Maps, Restful API, Push notifications, Git, etc, and having great problem-solving skills.
+My name is Husnain Asghar, and I am an experienced Flutter developer who has worked on different mobile products and mobile apps having a great experience working with design UI/UX, Firebase, Google Maps, Restful API, Push notifications, Git, etc, and having great problem-solving skills.
 
 Sure, here is just the "Portfolio" section:
 
@@ -23,10 +23,8 @@ Sure, here is just the "Portfolio" section:
 - ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## State Management:
-- ![Provider](https://img.shields.io/badge/provider-%230D47A1.svg?style=for-the-badge&logo=flutter&logoColor=white)
-- ![Riverpod](https://img.shields.io/badge/riverpod-%234CAF50.svg?style=for-the-badge&logo=flutter&logoColor=white)
-- ![Bloc](https://img.shields.io/badge/bloc-%23FBAE17.svg?style=for-the-badge&logo=flutter&logoColor=white)
 - ![GetX](https://img.shields.io/badge/getx-%231C2833.svg?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Riverpod](https://img.shields.io/badge/riverpod-%234CAF50.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## UI Libraries & Design:
 - ![Material Design](https://img.shields.io/badge/material%20design-%230081CB.svg?style=for-the-badge&logo=material-design&logoColor=white)
@@ -34,13 +32,11 @@ Sure, here is just the "Portfolio" section:
 
 ## Backend & APIs:
 - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-- Node.js (used for creating backend services that Flutter apps can interact with)
+- Rest API's
 
 ## Databases:
 - ![Firestore](https://img.shields.io/badge/firestore-%23FFA000.svg?style=for-the-badge&logo=firebase&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Hive](https://img.shields.io/badge/hive-%230E4E67.svg?style=for-the-badge&logo=flutter&logoColor=white)
-- ![Moor](https://img.shields.io/badge/moor-%23FF6200.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Testing & CI/CD:
 - ![Flutter Test](https://img.shields.io/badge/flutter%20test-%234CAF50.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -57,26 +53,19 @@ Sure, here is just the "Portfolio" section:
 ## Deployment & Cloud:
 - ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 - ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
-## DevOps & Monitoring:
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-- ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 ## APIs & Tools:
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 ## Design Tools:
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wahid-dev1&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wahid-dev1&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahid-dev1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=husnain067&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=husnain067&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=husnain067&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -85,6 +74,6 @@ Sure, here is just the "Portfolio" section:
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wahid-dev1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=husnain067&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
