@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a mobile app developer with over 4+ years of hands-on experience, <br>dedicated to delivering top-notch web solutions for small and <br>medium-sized businesses. My skill set spans a range of technologies, <br>allowing me to create scalable and customized applications that meet <br>your unique needs.
+Hi!
+My name is Husnain Asghar, and I am an experienced Flutter developer who has worked on different mobile products and mobile apps having great experience working with design UI/UX, Firebase, Google Maps, Restful API, Push notifications, Git, etc, and having great problem-solving skills.
 
 Sure, here is just the "Portfolio" section:
 
