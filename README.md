@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi!
 My name is Husnain Asghar, and I am an experienced Flutter developer who has worked on different mobile products and mobile apps having a great experience working with design UI/UX, Firebase, Google Maps, Restful API, Push notifications, Git, etc, and having great problem-solving skills.
+- 💞️ I’m looking to collaborate on flutter
+- 📫 How to reach me (husnainasghar066@gmail.com)
 
 Sure, here is just the "Portfolio" section:
 
