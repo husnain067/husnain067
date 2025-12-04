@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi!
-My name is Husnain Asghar, and I am an experienced Flutter developer who has worked on different mobile products and mobile apps having a great experience working with design UI/UX, Firebase, Google Maps, Restful API, Push notifications, Git, etc, and having great problem-solving skills.
+My name is Husnain Asghar, and I am an experienced software engineer who has worked on different software products and mobile apps having a great experience working with design UI/UX, Firebase, Google Maps, Restful API, Push notifications, Git, etc, and having great problem-solving skills.
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me (husnain.asghar981@gmail.com)
 
@@ -13,7 +13,7 @@ Sure, here is just the "Portfolio" section:
 - [Pet Set Go](https://petsetgo.com/)
 - [Finqalab](https://www.finqalab.com/)
 - [Mazito](https://mazito.io/)
-- [theboathouse](https://play.google.com/store/apps/detailsid=com.fantech.theboathouse)
+  
 
 
 ---
