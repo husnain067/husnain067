@@ -1,7 +1,7 @@
 # 💫 About Me
-I'm **Husnain Asghar**, a Full-Stack Software Engineer with **4+ years of Mobile development** and **8+ months of production web development** experience. I specialize in building scalable, performant applications across Flutter mobile apps and React web platforms. I've shipped multiple production applications in fintech, edtech, and service-based industries across both Play Store and App Store.
+I'm **Husnain Asghar**, a Full-Stack Software Engineer with **4+ years of Mobile development** and **1+ year of production web development** experience. I specialize in building scalable, performant applications across Flutter mobile apps and React web platforms. I've shipped multiple production applications in fintech, edtech, and service-based industries across both Play Store and App Store.
 
-My expertise lies in architecting clean, maintainable systems with seamless integrations, optimized databases, and polished user experiences. I'm passionate about writing production-ready code, system design, and mentoring other engineers.
+My expertise lies in architecting clean, maintainable systems with seamless integrations, optimized databases, and polished user experiences. I'm passionate about writing production-ready code, system design, and developer education.
 
 📫 **Contact:** husnain.asghar981@gmail.com
 
@@ -17,6 +17,7 @@ My expertise lies in architecting clean, maintainable systems with seamless inte
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-asghar-b501a0163/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@husnain.dev)
 
 ---
 
@@ -42,17 +43,21 @@ My expertise lies in architecting clean, maintainable systems with seamless inte
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Expertise:** Full-stack React applications, responsive design, component architecture, state management, performance optimization  
-**Testing:** Unit Testing, Integration Testing
+**Design Systems:** Storybook, Figma Code Connect, semantic design tokens  
+**Testing:** Unit Testing, Integration Testing, Vitest
 
 ---
 
 ### Backend & Cloud Infrastructure
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Hono](https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068B7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Firebase:** Firestore (design, security, optimization), Cloud Functions, Authentication, Storage, Crashlytics, Remote Config  
+**Backend Architecture:** Hono (multi-domain API apps), 4-layer architecture (Controller → Service → Repository → Schema), Zod schema validation & document versioning  
 **Cloud Infrastructure:** Google Cloud Run, Terraform (Infrastructure as Code), environment-based deployments  
 **Databases:** Firestore, SQL, database design & optimization  
 **APIs:** RESTful API design & integration, Plaid Banking API, third-party service integrations
@@ -61,11 +66,12 @@ My expertise lies in architecting clean, maintainable systems with seamless inte
 
 ### CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Codemagic](https://img.shields.io/badge/codemagic-%23103A53.svg?style=for-the-badge&logo=codemagic&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-**Automation:** GitHub Actions CI/CD pipelines, multi-environment deployments (staging/production)  
-**Monitoring & Analytics:** PostHog (feature flags, analytics)
+**Automation:** GitHub Actions CI/CD pipelines, multi-environment deployments (staging/production), Fastlane (iOS TestFlight)  
+**Monitoring & Analytics:** PostHog (feature flags, analytics, A/B testing)
 
 ---
 
@@ -81,6 +87,7 @@ My expertise lies in architecting clean, maintainable systems with seamless inte
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
 
 ---
 
